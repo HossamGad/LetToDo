@@ -1,0 +1,3 @@
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\test\lefttodo.test\obj\Debug\netcoreapp3.0\lefttodo.test.csprojAssemblyReference.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\test\lefttodo.test\obj\Debug\netcoreapp3.0\lefttodo.test.AssemblyInfoInputs.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\leftToDo_C#\New folder\left_to_do_C-sharp\test\lefttodo.test\obj\Debug\netcoreapp3.0\lefttodo.test.AssemblyInfo.cs

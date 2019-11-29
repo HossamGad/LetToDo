@@ -1,0 +1,11 @@
+C:\Users\hoss_\Desktop\LetToDo\lettodo\bin\MCD\Debug\netcoreapp3.0\lettodo.exe
+C:\Users\hoss_\Desktop\LetToDo\lettodo\bin\MCD\Debug\netcoreapp3.0\lettodo.deps.json
+C:\Users\hoss_\Desktop\LetToDo\lettodo\bin\MCD\Debug\netcoreapp3.0\lettodo.runtimeconfig.json
+C:\Users\hoss_\Desktop\LetToDo\lettodo\bin\MCD\Debug\netcoreapp3.0\lettodo.runtimeconfig.dev.json
+C:\Users\hoss_\Desktop\LetToDo\lettodo\bin\MCD\Debug\netcoreapp3.0\lettodo.dll
+C:\Users\hoss_\Desktop\LetToDo\lettodo\bin\MCD\Debug\netcoreapp3.0\lettodo.pdb
+C:\Users\hoss_\Desktop\LetToDo\lettodo\obj\MCD\Debug\netcoreapp3.0\lettodo.csprojAssemblyReference.cache
+C:\Users\hoss_\Desktop\LetToDo\lettodo\obj\MCD\Debug\netcoreapp3.0\lettodo.AssemblyInfoInputs.cache
+C:\Users\hoss_\Desktop\LetToDo\lettodo\obj\MCD\Debug\netcoreapp3.0\lettodo.AssemblyInfo.cs
+C:\Users\hoss_\Desktop\LetToDo\lettodo\obj\MCD\Debug\netcoreapp3.0\lettodo.dll
+C:\Users\hoss_\Desktop\LetToDo\lettodo\obj\MCD\Debug\netcoreapp3.0\lettodo.pdb
